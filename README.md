@@ -19,5 +19,7 @@ Here is an image from [images](/images/):
 
 ## Emojis
 :smile:
+
 :laughing:
+
 :grinning:
